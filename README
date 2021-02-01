@@ -1,0 +1,9 @@
+.config
+記得用:
+deadband
+configPeakOutputForward
+configPeakOutputReverse
+setNeutralMode(NeutralMode.Coast);
+
+**Victor不能用supplyCurrentLimit**
+
